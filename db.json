@@ -1,0 +1,50 @@
+[
+  {
+    "id": null,
+    "name": "Himanshu",
+    "email": "himanshu@example.com",
+    "sent_emails": 25,
+    "activity_time": "2024-12-20T10:15:00Z",
+    "activity_state": "Active"
+  },
+  {
+    "id": null,
+    "name": "Nitin",
+    "email": "nitin@example.com",
+    "sent_emails": 15,
+    "activity_time": "2024-12-19T14:30:00Z",
+    "activity_state": "Inactive"
+  },
+  {
+    "id": null,
+    "name": "Vishnu",
+    "email": "vishnu@example.com",
+    "sent_emails": 40,
+    "activity_time": "2024-12-20T08:00:00Z",
+    "activity_state": "Busy"
+  },
+  {
+    "id": null,
+    "name": "Sumit",
+    "email": "sumit@example.com",
+    "sent_emails": 15,
+    "activity_time": "2024-12-19T08:00:00Z",
+    "activity_state": "Busy"
+  },
+  {
+    "id": null,
+    "name": "Naman",
+    "email": "naman@gmail.com",
+    "sent_emails": 1500,
+    "activity_time": "2024-12-22T14:39:32.209Z",
+    "activity_state": "Active"
+  },
+  {
+    "id": null,
+    "name": "Vishal",
+    "email": "vishal@gmail.com",
+    "sent_emails": 95,
+    "activity_time": "2024-12-22T14:47:14.153Z",
+    "activity_state": "Inactive"
+  }
+]
